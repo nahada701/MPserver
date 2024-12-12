@@ -1,0 +1,32 @@
+ *json file to store data new folder is created..
+ *in order to use json file it has to run in the local host file (db.json)
+ *to do that use library "json library"
+ *to create file "package.json" to hold dependancies
+command "npm init -y" 
+package.json will come.
+
+to instll command  "npm i json.server@0.17.4"
+
+now create json database and host it using
+npx json-server db.json  here db.jon is the file name of the json 
+
+Deploy
+------
+1.to deploy it create an index .js file in bd
+2.update script of package.json "start":" node index.js"
+3.create .gitignore file to remove node moduele while pushing and add node_models to it
+4.define json-server to run json file in index.js
+5.import json server using require  
+"const json_server=require('json-server')"
+6.Create server for our application using "create" method  "const Mpserver=jsonServer.create()
+"
+7.create middleware() ///used to perform any actions in between api call between two origin EG:authentication before posting data
+it is created using defaults method of json server
+"const middleware=jsonServer.defaults()"
+8.to set route to db.json "const route=jsonServer.router('db.json')"
+9.set port to run our application
+"const PORT=3000 || process.env.PORT"
+this means use 3000 if its not available use any available port
+
+
+

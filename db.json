@@ -1,0 +1,139 @@
+{
+  "allVideos": [
+    {
+      "caption": "Start Up",
+      "imageURL": "https://rukminim2.flixcart.com/image/850/1000/kri3xjk0/poster/1/n/0/large-start-up-poster-start-up-print-startup-print-startup-original-imag5a7ecghhvy2q.jpeg?q=90&crop=false",
+      "youtubeURL": "https://www.youtube.com/embed/Lu3o0XrlsAg",
+      "id": 7
+    },
+    {
+      "caption": "Jackass",
+      "imageURL": "https://townsquare.media/site/442/files/2018/01/jackass-the-movie.jpg?w=780&q=75",
+      "youtubeURL": "https://www.youtube.com/embed/KwFZkLucUb0",
+      "id": 9
+    },
+    {
+      "caption": "Hitch",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d4/Hitch_poster.JPG",
+      "youtubeURL": "https://www.youtube.com/embed/pYrrEUgnT6s",
+      "id": 4
+    },
+    {
+      "caption": "Barbie",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibNdJd--lrOoBRWatQ1XvNgyGtapyjm-Erg&s",
+      "youtubeURL": "https://www.youtube.com/embed/n9xhJrPXop4",
+      "id": 10
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Korean",
+      "allVideos": [
+        {
+          "caption": "Hangover",
+          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vHtcZSHy6KJYvQs7kvV3f_qK5spGDlgfoA&s",
+          "youtubeURL": "https://www.youtube.com/embed/tlize92ffnY",
+          "id": 8
+        },
+        {
+          "caption": "Black Widow",
+          "imageURL": "https://qph.cf2.quoracdn.net/main-qimg-803b6646409362e0900aa04efe0409e6-lq",
+          "youtubeURL": "https://www.youtube.com/embed/Fp9pNPdNwjI",
+          "id": 6
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Comedy",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "categoryName": "Animation",
+      "allVideos": [
+        {
+          "caption": "Luca",
+          "imageURL": "https://images-cdn.ubuy.co.in/646f33db90b9007eb11162af-luca-poster-healing-animation-movie.jpg",
+          "youtubeURL": "https://www.youtube.com/embed/mYfJxlgR2jw",
+          "id": 1
+        },
+        {
+          "caption": "Rio",
+          "imageURL": "https://photogallery.indiatimes.com/photo/33383947.cms",
+          "youtubeURL": "https://www.youtube.com/embed/3BSQ7xnOqnA",
+          "id": 2
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "Thriller",
+      "allVideos": [
+        {
+          "caption": "ECHO",
+          "imageURL": "https://content.wepik.com/statics/519446368/preview-page0.jpg",
+          "youtubeURL": "https://www.youtube.com/embed/AFUKnherhuw",
+          "id": 5
+        },
+        {
+          "caption": "Vanity",
+          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97f3418THwqglfQcMi2k6fsVcgKUApiO9Rw&s",
+          "youtubeURL": "https://www.youtube.com/embed/S-1QgOMQ-ls",
+          "id": 10
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "watchHistory": [
+    {
+      "caption": "Dune",
+      "youtubeURL": "https://www.youtube.com/embed/67833534248",
+      "formatedDate": "12/5/2024, 2:52:03 PM",
+      "id": 1
+    },
+    {
+      "caption": "Rio",
+      "youtubeURL": "https://www.youtube.com/embed/3BSQ7xnOqnA",
+      "formatedDate": "12/6/2024, 2:14:13 PM",
+      "id": 2
+    },
+    {
+      "caption": "Luca",
+      "youtubeURL": "https://www.youtube.com/embed/mYfJxlgR2jw",
+      "formatedDate": "12/9/2024, 2:07:32 PM",
+      "id": 3
+    },
+    {
+      "caption": "Black Widow",
+      "youtubeURL": "https://www.youtube.com/embed/Fp9pNPdNwjI",
+      "formatedDate": "12/9/2024, 2:30:38 PM",
+      "id": 4
+    },
+    {
+      "caption": "Rio",
+      "youtubeURL": "https://www.youtube.com/embed/3BSQ7xnOqnA",
+      "formatedDate": "12/9/2024, 8:31:42 PM",
+      "id": 5
+    },
+    {
+      "caption": "Rio",
+      "youtubeURL": "https://www.youtube.com/embed/3BSQ7xnOqnA",
+      "formatedDate": "12/10/2024, 8:48:41 AM",
+      "id": 6
+    },
+    {
+      "caption": "Luca",
+      "youtubeURL": "https://www.youtube.com/embed/mYfJxlgR2jw",
+      "formatedDate": "12/10/2024, 1:43:29 PM",
+      "id": 7
+    },
+    {
+      "caption": "Jackass",
+      "youtubeURL": "https://www.youtube.com/embed/KwFZkLucUb0",
+      "formatedDate": "12/12/2024, 2:24:50 PM",
+      "id": 8
+    }
+  ]
+}
